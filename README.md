@@ -1,3 +1,3 @@
-# if u wanna run this code, run "npm install"
-# Capture
+## Rick and Morty app
+### Capture
 ![](./capture.png)
